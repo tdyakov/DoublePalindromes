@@ -1,0 +1,6 @@
+c:\users\teodor\documents\visual studio 2015\Projects\DoublePalindromes\bin\Debug\DoublePalindromes.exe.config
+C:\Users\Teodor\Documents\Visual Studio 2015\Projects\DoublePalindromes\bin\Debug\DoublePalindromes.exe
+C:\Users\Teodor\Documents\Visual Studio 2015\Projects\DoublePalindromes\bin\Debug\DoublePalindromes.pdb
+C:\Users\Teodor\Documents\Visual Studio 2015\Projects\DoublePalindromes\obj\Debug\DoublePalindromes.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Documents\Visual Studio 2015\Projects\DoublePalindromes\obj\Debug\DoublePalindromes.exe
+C:\Users\Teodor\Documents\Visual Studio 2015\Projects\DoublePalindromes\obj\Debug\DoublePalindromes.pdb
